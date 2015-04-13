@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+   <site url="http://download.eclipse.org/egit/github/updates" selected="true" name="EGit Mylyn GitHub connector"/>
+   <site url="http://download.eclipse.org/releases/luna" selected="true" name="Luna"/>
+   <site url="http://www.nodeclipse.org/updates/markdown/" selected="true" name="Markdown Editor Update Site"/>
+   <site url="http://download.eclipse.org/mylyn/releases/luna" selected="true" name="Mylyn for Eclipse Luna"/>
+   <site url="http://pydev.org/updates" selected="true" name="PyDev and updates"/>
+   <site url="http://download.eclipse.org/eclipse/updates/4.4" selected="true" name="The Eclipse Project Updates"/>
+</bookmarks>
